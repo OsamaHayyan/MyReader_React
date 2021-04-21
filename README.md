@@ -8,7 +8,7 @@
 - Development and Production environment
 - Secure Api with server-side functionality
 
-###Api
+### Api
 
 > **Udacite Api**
 
@@ -22,13 +22,13 @@
 
 ---
 
-####Using development mode:
+#### Using development mode:
 
 > note that it will work on 3000 port
 
 `$ npm start`
 
-####Test:
+#### Test:
 
 `$ npm test`
 
@@ -42,6 +42,8 @@ npm start
 
 ---
 
-###Image
+### Image
+![MyReader_home](https://user-images.githubusercontent.com/74325729/115495982-09866300-a269-11eb-8ba1-328b572a9251.png)
+![MyReader_search](https://user-images.githubusercontent.com/74325729/115495990-0c815380-a269-11eb-8e3c-45785cecda86.png)
 
-###End
+### End
