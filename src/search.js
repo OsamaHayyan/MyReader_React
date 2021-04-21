@@ -15,7 +15,7 @@ class Search extends Component {
     return (
       <div className="search-books">
         <div className="search-books-bar">
-          <button className="close-search" onClick={() => handleSearchButton}>
+          <button className="close-search" onClick={handleSearchButton}>
             Close
           </button>
           <div className="search-books-input-wrapper">
